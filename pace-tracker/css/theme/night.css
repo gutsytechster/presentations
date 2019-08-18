@@ -269,3 +269,19 @@ body {
 @media print {
   .backgrounds {
     background-color: #111; } }
+
+
+/*********************************************
+ * CUSTOM HIGHTLIGHTED TAGS
+ *********************************************/
+.reveal hl2 {  /*red*/
+    color: #a23; }
+
+.reveal hl3 {  /*sky*/
+    color: #00e6e6; }
+
+.reveal hl4 {  /*light purple*/
+    color: #bf80ff; }
+
+.reveal hl5 {  /*light mustered*/
+    color: #ffcc99; }
